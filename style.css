@@ -238,4 +238,8 @@ body.theme-dark header p {
     h3 {
         font-size: 1rem;
     }
+
+    footer {
+        font-size: 0.7rem;
+    }
 }
