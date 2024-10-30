@@ -96,6 +96,7 @@ body {
     flex: 1;
     padding-left: 1.25rem;
     background-color: rgb(39, 39, 53);
+    border-radius: 1rem;
 }
 
 .right-side {
@@ -372,7 +373,7 @@ h3 {
     --primary-color: #bd6ea2;
     --background-color: #222;
     --text-color: #d7dcf7; 
-    --link-color :#2e1c07;
+    --link-color :#136270;
 }
 
 body.theme-dark {
