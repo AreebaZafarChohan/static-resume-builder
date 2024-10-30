@@ -541,6 +541,24 @@ body.theme-dark .left-side h2{
 
 @media (max-width: 470px) {
 
+    .heading-and-text h1 {
+        font-size: 1.8rem;
+        margin-top: 1rem;
+    }
+
+    .heading-and-text p {
+        font-size: 1.2rem;
+    }
+
+    .profile-image {
+        text-align: center;
+    }
+    
+    img {
+        width: 12rem;
+        height: 12rem;
+    }
+
     .left-side, .right-side {
         justify-content: start;
         align-items: start;
@@ -550,7 +568,7 @@ body.theme-dark .left-side h2{
     }
 
     .left-side h2, .right-side h2 {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
     }
 
 }
